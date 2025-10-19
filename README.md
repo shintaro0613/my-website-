@@ -191,5 +191,5 @@
   </div>
 
   <div class="divider"></div>
-  <footer>© 2025 救急業務教育サポート / 作成：Naoki</footer>
+  <footer>© 2025 救急業務教育サポート / 作成：Shintaro</footer>
 </div>
