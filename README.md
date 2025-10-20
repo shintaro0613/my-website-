@@ -101,7 +101,7 @@
   <div class="grid">
     <div class="card">
       <div class="lesson-title">Lesson 1</div>
-      <div class="lesson-desc">救急業務の基礎知識</div>
+      <div class="lesson-desc">心電図</div>
       <a href="lesson1/index.html" class="button">▶ 学習する</a>
     </div>
 
